@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "f36f14d87f93fcdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "85019a644543fc3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c74351ace098f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe0852f11a9f7b68",
+    "type": "split",
+    "children": [
+      {
+        "id": "07926fa12b3fd13d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be473efcdc580320",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06fc7423de9dffde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7ab13ee9c9bfa1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a030a701078c37a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2daa5c3358d46210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3caef24f18bf3208",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70e4677cdc3c47c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc8afd099de66d47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "276512f81cd46eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20c74351ace098f2",
+  "lastOpenFiles": [
+    "Pictures/Screenshot from 2024-01-23 15-58-19.png",
+    "Pictures/Screenshot from 2024-01-23 15-58-12.png",
+    "Pictures/Screenshot from 2024-01-23 15-57-49.png",
+    "README.md",
+    "Pictures",
+    "app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt",
+    "app/build/intermediates/apk_ide_redirect_file/debug",
+    "app/build/intermediates/apk_ide_redirect_file",
+    "app/build/intermediates/apk/debug/output-metadata.json",
+    "app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources",
+    "app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0",
+    "app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt",
+    "app/build/intermediates/apk/debug/app-debug.apk",
+    "app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache",
+    "app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.webp",
+    "app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.webp",
+    "app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.webp",
+    "app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.webp",
+    "app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.webp",
+    "app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.webp",
+    "app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.webp"
+  ]
+}
