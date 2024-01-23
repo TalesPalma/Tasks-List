@@ -1,7 +1,5 @@
 ## **Taks List**
-![[Screenshot from 2024-01-23 15-57-49.png]]
+![minhalogo](https://flic.kr/p/2pu8Qkg](https://www.flickr.com/photos/199942315@N02/53483288469/in/dateposted-public/)https://www.flickr.com/photos/199942315@N02/53483288469/in/dateposted-public/](https://www.flickr.com/photos/199942315@N02/53483288469/in/dateposted-public/)https://www.flickr.com/photos/199942315@N02/53483288469/in/dateposted-public/)
 
-![[Screenshot from 2024-01-23 15-58-12.png]]
 
-![[Screenshot from 2024-01-23 15-58-19.png]]
 
