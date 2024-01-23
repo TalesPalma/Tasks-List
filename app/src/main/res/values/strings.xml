@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LISTA DE TAREFAS</string>
+    <string name="button_editer">Button Editer</string>
+    <string name="button_delete">Button Delete</string>
+</resources>

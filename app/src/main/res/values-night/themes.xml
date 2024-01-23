@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListaDeTarefas" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_black</item>
+        <item name="colorPrimaryVariant">@color/blue_grey</item>
+
+        <item name="colorSecondary">@color/glass_white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+
+        <item name="android:windowBackground">@color/background_night</item>
+
+        <item name="floatingActionButtonPrimaryStyle">@color/blue_black</item>
+        <item name="floatingActionButtonSecondaryStyle">@color/blue_grey</item>
+    </style>
+</resources>

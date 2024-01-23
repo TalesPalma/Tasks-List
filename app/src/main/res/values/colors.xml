@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#D1E2E5</color>
+    <color name="blue_black">#124c81</color>
+    <color name="blue_grey">#4e6190</color>
+    <color name="glass_white">#99a8bb</color>
+    <color name="background">#C4D2E2</color>
+
+        <!--  nigth  -->
+    <color name="blue_black_night">#124c81</color>
+    <color name="blue_grey_night">#4e6190</color>
+    <color name="glass_white_night">#99a8bb</color>
+    <color name="background_night">#000000</color>
+
+</resources>
